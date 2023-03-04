@@ -1,0 +1,43 @@
+GET http://localhost:8081/client/content
+###
+GET http://localhost:8081/client/content/{{id}}
+
+###
+
+POST http://localhost:8081/client/content
+Content-Type: application/json
+
+{
+
+  "name":"Manali Tawar",
+  "contact":"1234567890",
+  "emailId":"pooja@gmail.com",
+  "occupation":"Engineer",
+  "checkin":"2022-05-17T00:00:00",
+  "checkout":"2022-05-17T00:00:00",
+  "dob":"2022-05-17T00:00:00"
+}
+
+###
+PUT http://localhost:8081/client/content/5
+Content-Type: application/json
+
+{
+  "id":5,
+  "name":"kulbhushan",
+  "contact":"1234567890",
+  "emailId":"pooja@gmail.com",
+  "occupation":"Engineer",
+  "checkin":"2022-05-17T00:00:00",
+  "checkout":"2022-05-17T00:00:00",
+  "dob":"2022-05-17T00:00:00"
+}
+
+###
+
+DELETE http://localhost:8081/client/content/1
+
+###
+GET http://localhost:8081/client/content/filter/ooja
+###
+GET http://localhost:8081/client/content/filter/name/payal@gmail.com

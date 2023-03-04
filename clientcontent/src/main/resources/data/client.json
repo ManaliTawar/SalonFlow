@@ -1,0 +1,112 @@
+[
+  {
+  "id": null,
+  "name": "Payal Rana",
+  "emailId": "payal@gmail.com",
+  "contact": "1234567890",
+  "occupation": "bussiness",
+  "checkin":"2022-05-17T00:00:00.000000",
+  "checkout": "2022-05-17T00:00:00.000000",
+  "dob": "2022-05-17T00:00:00.000000"
+},
+  {
+    "id": null,
+    "name": "Pooja Joshi",
+    "emailId": "pooja@gmail.com",
+    "contact": "1234567890",
+    "occupation": "Engineer",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Sheetal Patil",
+    "emailId": "sheetal@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Vaishnavi Singh",
+    "emailId": "vaish@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Arunima Khanna",
+    "emailId": "aru@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Tina Khan",
+    "emailId": "tina@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Mithi Akanksha",
+    "emailId": "mithi@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Manasi Shrivastava",
+    "emailId": "manasi@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Shrushti Patel",
+    "emailId": "payal@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Deena Jain",
+    "emailId": "deena@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  },
+  {
+    "id": null,
+    "name": "Rashi Singh",
+    "emailId": "rashi@gmail.com",
+    "contact": "1234567890",
+    "occupation": "bussiness",
+    "checkin":"2022-05-17T00:00:00.000000",
+    "checkout": "2022-05-17T00:00:00.000000",
+    "dob": "2022-05-17T00:00:00.000000"
+  }
+]
