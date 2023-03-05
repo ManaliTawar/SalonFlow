@@ -7,6 +7,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
+import java.sql.Date;
 import java.util.List;
 
 @RestController
@@ -57,6 +58,9 @@ public class ContentController {
         return repository.listByEmailId(emailId);
     }
 
-
+    @GetMapping("/filter/dob/{dob}")
+    public List<Content> findByDOB(@PathVariable Date dob){
+        return repository.findAllByDob(dob);
+    }
 
 }

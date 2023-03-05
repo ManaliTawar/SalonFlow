@@ -1,4 +1,4 @@
-GET http://localhost:8081/client/content
+GET http://localhost:8082/client/content
 ###
 GET http://localhost:8081/client/content/{{id}}
 
@@ -41,3 +41,5 @@ DELETE http://localhost:8081/client/content/1
 GET http://localhost:8081/client/content/filter/ooja
 ###
 GET http://localhost:8081/client/content/filter/name/payal@gmail.com
+###
+GET http://localhost:8082/client/content/filter/dob/1987-05-17

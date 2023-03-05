@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS Content (
     occupation VARCHAR(50) NOT NULL,
     checkin TIMESTAMP ,
     checkout TIMESTAMP,
-    dob TIMESTAMP,
+    dob DATE,
     primary key(id)
     );
 

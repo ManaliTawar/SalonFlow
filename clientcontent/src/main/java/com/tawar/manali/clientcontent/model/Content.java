@@ -3,6 +3,7 @@ package com.tawar.manali.clientcontent.model;
 import jakarta.validation.constraints.NotBlank;
 import org.springframework.data.annotation.Id;
 
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 
@@ -17,7 +18,7 @@ public record Content(
         String occupation,
         LocalDateTime checkin,
         LocalDateTime checkout,
-        LocalDateTime dob
+        LocalDate dob
 ) {
 
 
