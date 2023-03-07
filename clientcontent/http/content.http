@@ -1,4 +1,4 @@
-GET http://localhost:8082/client/content
+GET http://localhost:8083/client/content
 ###
 GET http://localhost:8081/client/content/{{id}}
 
@@ -30,7 +30,7 @@ Content-Type: application/json
   "occupation":"Engineer",
   "checkin":"2022-05-17T00:00:00",
   "checkout":"2022-05-17T00:00:00",
-  "dob":"2022-05-17T00:00:00"
+  "dob":"2022-05-17"
 }
 
 ###
@@ -43,3 +43,5 @@ GET http://localhost:8081/client/content/filter/ooja
 GET http://localhost:8081/client/content/filter/name/payal@gmail.com
 ###
 GET http://localhost:8082/client/content/filter/dob/1987-05-17
+###
+GET http://localhost:8083/sendMail

@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS Content (
     id INTEGER AUTO_INCREMENT,
     name varchar(255) NOT NULL,
-    email_id VARCHAR(20) NOT NULL,
+    email_id VARCHAR(30) NOT NULL,
     contact VARCHAR(20) NOT NULL,
     occupation VARCHAR(50) NOT NULL,
     checkin TIMESTAMP ,

@@ -20,6 +20,43 @@ public record Content(
         LocalDateTime checkout,
         LocalDate dob
 ) {
+        @Override
+        public Integer id() {
+                return id;
+        }
 
+        @Override
+        public String name() {
+                return name;
+        }
 
+        @Override
+        public String contact() {
+                return contact;
+        }
+
+        @Override
+        public String emailId() {
+                return emailId;
+        }
+
+        @Override
+        public String occupation() {
+                return occupation;
+        }
+
+        @Override
+        public LocalDateTime checkin() {
+                return checkin;
+        }
+
+        @Override
+        public LocalDateTime checkout() {
+                return checkout;
+        }
+
+        @Override
+        public LocalDate dob() {
+                return dob;
+        }
 }

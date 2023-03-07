@@ -62,5 +62,4 @@ public class ContentController {
     public List<Content> findByDOB(@PathVariable Date dob){
         return repository.findAllByDob(dob);
     }
-
 }
